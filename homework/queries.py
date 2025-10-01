@@ -10,6 +10,7 @@
 def run():
     """Orquestador"""
 
+print("hola")
 
 if __name__ == "__main__":
 
